@@ -1,0 +1,41 @@
+*{
+    font-family: 'Orbitron';
+    font-size: 35px;
+    
+}
+
+.container{
+    margin: auto;
+    margin-top: 40px;
+    padding: 5px;
+    width: 400px;
+    height: 550px;
+    border-radius: 2px solid black;
+    background-color: rgb(49, 48, 48);
+
+}
+.pantalla{
+    margin: 10px;
+    width: 90%;
+    padding: 5px;
+    background-color: green;
+}
+
+table{
+    margin: auto;
+}
+input{
+    margin-top: 3px;
+    color: aliceblue;
+    background-color: grey;
+    width: 90px;
+    height: 80px;
+    border-radius: 8px;
+}
+input:hover{
+    background-color: green;
+}
+.signo{
+    background-color: orange;
+    width: 190px;
+}
